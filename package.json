@@ -2,7 +2,7 @@
   "name": "cryptotracker",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Living-Hell.github.io/crypto-tracker",
+  "homepage": "https://oyesaurabh.github.io/crypto-tracker",
   "dependencies": {
     "@material-ui/core": "^4.12.4",
     "@material-ui/lab": "^4.0.0-alpha.61",
