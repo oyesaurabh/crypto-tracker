@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/CryptoWorld/static/css/main.1a9a7a29.css",
+    "main.js": "/CryptoWorld/static/js/main.26b802f9.js",
+    "static/media/banner.jpg": "/CryptoWorld/static/media/banner.c9150ebff90a237a941e.jpg",
+    "index.html": "/CryptoWorld/index.html",
+    "main.1a9a7a29.css.map": "/CryptoWorld/static/css/main.1a9a7a29.css.map",
+    "main.26b802f9.js.map": "/CryptoWorld/static/js/main.26b802f9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a9a7a29.css",
+    "static/js/main.26b802f9.js"
+  ]
+}
